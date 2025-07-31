@@ -26,6 +26,9 @@
 **EasyBackup**  
 A proprietary Minecraft plugin for automated backup of server worlds and networks. Supports incremental backups and uploading to various cloud providers
 
+**SimplixCore**  
+Framework for modular Java projects with streamlined dependency injection [Simplix-Softworks/SimplixCore](https://github.com/Simplix-Softworks/SimplixCore)
+
 **Home Assistant Integrations**  
 Custom Home Assistant integrations and plugins for smart home automation.
 
@@ -35,9 +38,8 @@ Backend Developer & DevOps Engineer at [unitb consulting GmbH](https://www.unitb
 ---
 
 ### ⚡ Open Source Contributions
-- **Cloud**: Best-in-class command framework for Java (Incendo/cloud)  
-- **Zip4j**: Powerful Java library for ZIP file handling (srikanth-lingala/zip4j)  
-- **SimplixCore**: Framework for modular Java projects with streamlined dependency injection (Simplix-Softworks/SimplixCore)
+- **Cloud**: Best-in-class command framework for Java [Incendo/cloud](https://github.com/Incendo/cloud)  
+- **Zip4j**: Powerful Java library for ZIP file handling [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j)  
 
 ---
 
