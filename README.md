@@ -1,32 +1,46 @@
+
 ### Hi, I'm Julian Staudt 👋
 
-*Java Developer & System Administrator*
+**Backend Developer & DevOps Engineer**
 
-### 🌱 Experiences
-- Java/Kotlin Development
-- Reverse engineering & bytecode manipulation
-- Java Reflection
-- System Administration (Virtualization, Linux)
-- Setting up home/production networks and configuration of firewall rules
-- DRM / License system / Code obfuscation
-- Webdevelopment with [Vaadin](https://vaadin.com)
-- Javascript / CSS / HTML
-- PHP
+---
 
-### ⚡ Personal Projects
-- [EasyBackup](https://spigotmc.org/resources/8017), a popular minecraft plugin to back up your network
-- GardenaSmartSystemAPI, an api to connect gardena's [smart system](https://www.gardena.com/de/produkte/smart/smartsystem/) to java
-- Tado API, simple api to access [tado's thermostats](https://www.tado.com/gb-en/smart-radiator-thermostat-overview) from java
-- Various minecraft plugins and discord bots
-- A simple countdown website
-- ... and many, many more
+### 🌱 Technical Skills
+**Programming Languages & Frameworks**
+- Java, Kotlin, C, Python, Typescript
+- Spring Boot, ASM (Bytecode Manipulation), Java Reflection, NodeJS
+- Web: Vue, Vaadin, PHP
+- Microservice-based applications: design, development, deployment, and monitoring
+- License/DRM protection software
 
-### 🔭 Contributions
-- [Cloud](https://github.com/Incendo/cloud), the best command framework for java
-- [Zip4j](https://github.com/srikanth-lingala/zip4j), a java library for zip files / streams
-- [SimplixCore](https://github.com/Simplix-Softworks/SimplixCore), a general purpose framework for java development with streamlined dependency injection
+**DevOps & Infrastructure**
+- Cloud & IaC: AWS CloudFormation, Terraform, Ansible
+- Virtualization: VMware Cloud Foundation (ESXi, vSphere), Docker
+- Kubernetes Cluster Operator
+- CI/CD: GitLab CI/CD, GitHub Actions
+- System Administration: Linux, network configuration, firewall rules, MDM
 
-### 💬 Contact
-- Discord: Just#0001 or join [here](https://discord.com/invite/PfUBzpEdsV)
-- Email: contact@julianstaudt.de
-- Timezone: Europe/Berlin
+---
+
+### 🚀 Projects & Experience
+**EasyBackup**  
+A proprietary Minecraft plugin for automated backup of server worlds and networks. Supports incremental backups and uploading to various cloud providers
+
+**Home Assistant Integrations**  
+Custom Home Assistant integrations and plugins for smart home automation.
+
+**Since 2022: @unitb-consulting**
+Backend Developer & DevOps Engineer at [unitb consulting GmbH](https://www.unitb.de/referenzen)
+
+---
+
+### ⚡ Open Source Contributions
+- **Cloud**: Best-in-class command framework for Java (Incendo/cloud)  
+- **Zip4j**: Powerful Java library for ZIP file handling (srikanth-lingala/zip4j)  
+- **SimplixCore**: Framework for modular Java projects with streamlined dependency injection (Simplix-Softworks/SimplixCore)
+
+---
+
+### 📬 Contact
+- 🌍 Europe/Berlin (UTC+02:00)  
+- 📧 contact@julianstaudt.de
