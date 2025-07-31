@@ -29,7 +29,7 @@ A proprietary Minecraft plugin for automated backup of server worlds and network
 **Home Assistant Integrations**  
 Custom Home Assistant integrations and plugins for smart home automation.
 
-**Since 2022: @unitb-consulting**
+**Since 2022: @unitb-consulting**  
 Backend Developer & DevOps Engineer at [unitb consulting GmbH](https://www.unitb.de/referenzen)
 
 ---
